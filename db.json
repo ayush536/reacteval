@@ -3,12 +3,20 @@
     {
       "country": "india",
       "id": 1
+    },
+    {
+      "country": "india",
+      "id": 2
     }
   ],
   "add-city": [
     {
-      "city": "Delhi",
+      "city": "Nagpur",
       "id": 1
+    },
+    {
+      "city": "dehradun",
+      "id": 2
     }
   ]
 }

@@ -1,4 +1,4 @@
-import { Button } from "@mui/material";
+import Button from '@mui/material/Button';
 import { Link } from "react-router-dom"
 import Table from '@mui/material/Table';
 export const HomePage = () => {
