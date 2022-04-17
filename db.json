@@ -7,6 +7,10 @@
     {
       "country": "india",
       "id": 2
+    },
+    {
+      "country": "delhi",
+      "id": 3
     }
   ],
   "add-city": [
